@@ -409,10 +409,8 @@ footer > img {
 		height: 350px;
 		margin-top: -160px;
 		margin-left: -70px;
-		margin-right: 15px;
+		margin-right: 25px;
 		margin-bottom: 10px;
-		shape-outside: ellipse(42% 42% at 50% 48%);
-		shape-margin: 10px;
 	}
 
 	header > .header-inner > .photo-wrap > img {
@@ -526,8 +524,6 @@ footer > img {
 		margin-top: -100px;
 		margin-left: -85px;
 		margin-right: 40px;
-		shape-outside: ellipse(44% 42% at 50% 42%);
-		shape-margin: 24px;
 	}
 
 	header > .header-inner > .photo-wrap > img {
