@@ -1,0 +1,15 @@
+<svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 128 20
+           C 190 20 236 60 236 128
+           C 236 190 196 236 128 236
+           C 62 236 20 192 20 128
+           C 20 62 66 20 128 20 Z"
+        fill="#854628"/>
+  <text x="128" y="158"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-size="120"
+        font-weight="700"
+        fill="#fffdf8"
+        text-anchor="middle"
+        letter-spacing="-4">CS</text>
+</svg>
